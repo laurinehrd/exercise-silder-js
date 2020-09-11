@@ -13,7 +13,7 @@
       <div id="suivant" onclick="ChangeSlide(1)">></div>
     </div>
 
-  </body>
+
 
   <script src="main.js"></script>
 
